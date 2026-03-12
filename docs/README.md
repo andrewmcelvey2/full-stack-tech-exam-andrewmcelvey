@@ -7,7 +7,7 @@
 | Component | Link | 
 |-----------|------|
 | **GitHub Repository** | [https://github.com/andrewmcelvey2/full-stack-tech-exam-andrewmcelvey](https://github.com/your-andrewmcelvey2/full-stack-tech-exam-andrewmcelvey/) | 
-| **GitHub Pages (docs/)** | [https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/](https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/)) | 
+| **GitHub Pages (docs/)** | [https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/](https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://your.static.external.ip:3000](http://your.static.external.ip:3000) | 
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
