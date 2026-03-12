@@ -8,8 +8,8 @@
 |-----------|------|
 | **GitHub Repository** | [https://github.com/andrewmcelvey2/full-stack-tech-exam-andrewmcelvey](https://github.com/your-andrewmcelvey2/full-stack-tech-exam-andrewmcelvey/) | 
 | **GitHub Pages (docs/)** | [https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/](https://andrewmcelvey2.github.io/full-stack-tech-exam-andrewmcelvey/) | 
-| **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
-| **Production Server (GCP)** | [http://your.static.external.ip:3000](http://your.static.external.ip:3000) | 
+| **Dev Server (Render)** | (https://full-stack-tech-exam-andrewmcelvey.onrender.com](https://full-stack-tech-exam-andrewmcelvey.onrender.com/) | 
+| **Production Server (GCP)** | [http://34.44.146.226:3000](http://34.44.146.226:3000) | 
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
